@@ -1,0 +1,164 @@
+Begin benchmark
+SPMM [L*]
+Counterexamples: 15.0
+Counterexamples for sequences only: 9.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 5.0
+Procedural Membership Queries: 869.0
+Symbols in all MQs together: 9027.0
+SPMM Size in States: 14.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 76.0 ms
+================
+SPMM [RS]
+Counterexamples: 19.0
+Counterexamples for sequences only: 12.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 7.0
+Procedural Membership Queries: 413.0
+Symbols in all MQs together: 3058.0
+SPMM Size in States: 14.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 20.0 ms
+================
+SPMM [KV]
+Counterexamples: 25.0
+Counterexamples for sequences only: 14.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 10.0
+Procedural Membership Queries: 315.0
+Symbols in all MQs together: 2098.0
+SPMM Size in States: 14.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 15.0 ms
+================
+SPMM [DT]
+Counterexamples: 21.0
+Counterexamples for sequences only: 13.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 7.0
+Procedural Membership Queries: 301.0
+Symbols in all MQs together: 1991.0
+SPMM Size in States: 14.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 20.0 ms
+================
+SPMM [TTT]
+Counterexamples: 25.0
+Counterexamples for sequences only: 14.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 10.0
+Procedural Membership Queries: 291.0
+Symbols in all MQs together: 2075.0
+SPMM Size in States: 14.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 37.0 ms
+================
+End benchmark
+current seed is 89
+current seed is 97
+current seed is 105
+current seed is 113
+current seed is 121
+current seed is 129
+current seed is 137
+current seed is 145
+current seed is 153
+current seed is 161
+current seed is 169
+current seed is 177
+current seed is 185
+current seed is 193
+current seed is 201
+current seed is 209
+current seed is 217
+current seed is 225
+current seed is 233
+current seed is 241
+current seed is 249
+current seed is 257
+current seed is 265
+current seed is 273
+current seed is 281
+current seed is 289
+current seed is 297
+current seed is 305
+current seed is 313
+current seed is 321
+current seed is 329
+current seed is 337
+current seed is 345
+current seed is 353
+current seed is 361
+current seed is 369
+current seed is 377
+current seed is 385
+current seed is 393
+current seed is 401
+current seed is 409
+current seed is 417
+current seed is 425
+current seed is 433
+current seed is 441
+current seed is 449
+current seed is 457
+current seed is 465
+current seed is 473
+current seed is 481
+Begin benchmark
+SPMM [L*]
+Counterexamples: 41.0
+Counterexamples for sequences only: 40.0
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 0.0
+Procedural Membership Queries: 70610.0
+Symbols in all MQs together: 409221.8
+SPMM Size in States: 100.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 171.6 ms
+================
+SPMM [RS]
+Counterexamples: 61.76
+Counterexamples for sequences only: 44.3
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 19.7
+Procedural Membership Queries: 9588.12
+Symbols in all MQs together: 63152.36
+SPMM Size in States: 100.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 36.22 ms
+================
+SPMM [KV]
+Counterexamples: 69.24
+Counterexamples for sequences only: 47.5
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 20.74
+Procedural Membership Queries: 7092.92
+Symbols in all MQs together: 57461.34
+SPMM Size in States: 100.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 32.56 ms
+================
+SPMM [DT]
+Counterexamples: 76.4
+Counterexamples for sequences only: 50.74
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 24.66
+Procedural Membership Queries: 8112.76
+Symbols in all MQs together: 55528.9
+SPMM Size in States: 100.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 39.4 ms
+================
+SPMM [TTT]
+Counterexamples: 67.12
+Counterexamples for sequences only: 46.22
+TS-Conformance Checks: 0.0
+Global Refinement Steps: 19.9
+Procedural Membership Queries: 7142.28
+Symbols in all MQs together: 41464.38
+SPMM Size in States: 100.0
+Learned Exact Model: 1.0 * 100%
+Learning Time: 37.92 ms
+================
+End benchmark
